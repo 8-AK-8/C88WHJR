@@ -1,0 +1,11 @@
+#myCanvas{
+  border-radius: 10px;
+  border-color: black;
+  box-shadow: 5px 5px 30px ;
+  background-color: antiquewhite;
+}
+
+#body{
+  background-color: cadetblue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
